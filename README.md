@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Este es el Git de UTE GO</h1>
 <h3 align="center">Aqui se suben los proyectos de la la gerencia</h3>
 <div align="center">
-  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ute-go&label=Profile%20views&color=0e75b6&style=flat" alt="ute-go" /> </p>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ute-go" alt="ute-go" /></a> </p>
